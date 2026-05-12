@@ -1,6 +1,6 @@
 # Jessica - Senior Infrastructure & Cloud Security Engineer
 
-> Voice Network Architecture · Cloud Security · Healthcare GRC · Founder [@TeknikallySpeaking](https://teknikallyspeaking.com)
+> Voice Network Architecture · Cloud Security · Healthcare GRC · Founder [@TeknikallySpeaking](https://www.teknikallyspeaking.com)
 
 ---
 
@@ -10,7 +10,7 @@ I work at the intersection of **voice infrastructure and cloud security** - a sp
 
 My background is in enterprise voice network engineering (SIP trunks, SBCs, Teams Direct Routing, PSTN interconnects) with a current focus on cloud security architecture and healthcare compliance. I design and implement security controls for organizations on **Azure and AWS**, with particular depth in HIPAA-regulated environments.
 
-At [Teknikally Speaking](https://teknikallyspeaking.com), I lead technical delivery for healthcare GRC and cloud security consulting - fractional vCISO services, HIPAA compliance programs, and cloud security implementation for small-to-mid healthcare organizations.
+At [Teknikally Speaking](https://www.teknikallyspeaking.com), I lead technical delivery for healthcare GRC and cloud security consulting - fractional vCISO services, HIPAA compliance programs, and cloud security implementation for small-to-mid healthcare organizations.
 
 ---
 
