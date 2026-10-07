@@ -1,4 +1,4 @@
-# Cloud Security & GRC Consultant | HIPAA · SOC2
+# IT Infrastructure Engineer
 
 > Voice Network Architecture · Cloud Security · Healthcare GRC · Founder [@TeknikallySpeaking](https://www.teknikallyspeaking.com)
 
