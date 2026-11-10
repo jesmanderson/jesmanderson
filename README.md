@@ -1,84 +1,100 @@
-# IT Infrastructure Engineer
+# Hi, I'm Jessica 👋🏾
 
-> Voice Network Architecture · Cloud Security · Healthcare GRC · Founder [@TeknikallySpeaking](https://www.teknikallyspeaking.com)
+I'm a **Unified Communications & Collaboration Engineer** based in Houston, Texas, focused on designing, supporting, troubleshooting, and improving enterprise collaboration and voice services.
 
----
+My background is centered on **Microsoft Teams Phone, Direct Routing, SIP, Session Border Controllers (SBCs), and enterprise voice infrastructure**. I'm continuing to expand my skills in automation, identity and access management, disaster recovery, and cloud architecture.
 
-## What I Build
+## What I Work With
 
-I work at the intersection of **voice infrastructure and cloud security** - a space most security engineers never touch and most network engineers don't think about as an attack surface. That combination is the lens through which I approach every engagement.
+- Microsoft Teams & Teams Phone
+- Microsoft Teams Direct Routing
+- SIP / VoIP
+- Session Border Controllers (SBCs)
+- Enterprise Voice & PSTN Routing
+- Microsoft 365
+- PowerShell
+- DNS, TLS & Certificates
+- Network / Firewall Troubleshooting
+- Disaster Recovery & Service Resilience
+- Identity & Access Management
+- Governance & Lifecycle Management
 
-My background is in enterprise voice network engineering (SIP trunks, SBCs, Teams Direct Routing, PSTN interconnects) with a current focus on cloud security architecture and healthcare compliance. I design and implement security controls for organizations on **Azure and AWS**, with particular depth in HIPAA-regulated environments.
+## What I'm Working On
 
-At [Teknikally Speaking](https://www.teknikallyspeaking.com), I lead technical delivery for healthcare GRC and cloud security consulting - fractional vCISO services, HIPAA compliance programs, and cloud security implementation for small-to-mid healthcare organizations.
+I'm currently focused on strengthening my end-to-end voice engineering skills, particularly:
 
----
+- Advanced SIP signaling analysis
+- RTP / SRTP and media troubleshooting
+- SBC configuration and troubleshooting
+- Teams → SBC → Network → Carrier call-flow analysis
+- Voice resiliency and disaster recovery
+- PowerShell and API-driven automation
+- Least-privilege access and RBAC
+- Microsoft 365 / Teams governance
 
-## Active Focus Areas
+## Engineering Interests
 
-| Domain | What I'm Working On |
-|---|---|
-| ☁️ **Cloud Security** | Azure & AWS security architecture, BYOD/Zero Trust, Entra Conditional Access, HIPAA control mapping |
-| 🔒 **Healthcare GRC** | HIPAA Security Rule compliance, risk assessments, policy frameworks, vCISO delivery |
-| 📞 **Voice as an Attack Surface** | SIP trunk security, SBC hardening, Teams Direct Routing HIPAA considerations |
-| 🏗️ **Infrastructure** | Home lab (Pi-hole, pfSense, WireGuard), policy-as-code, CloudFormation/Bicep templating |
-| 📚 **Certifications** | AWS Security Specialty (SCS-C03) — in progress |
+### Enterprise Voice
 
----
+Understanding the entire call path rather than treating voice systems as individual components.
 
-## Featured Repositories
+**Teams → Direct Routing → SBC → Network → Carrier → PSTN**
 
-###  [`ref-voice-hipaa-surface`](../ref-voice-hipaa-surface)
-SIP trunk attack surface documentation, SBC misconfiguration patterns, and Teams Direct Routing HIPAA exposure analysis. The voice channel is an underexamined PHI attack vector - this repo documents it.
+### Troubleshooting
 
-### [`aws-security-specialty`](../aws-security-specialty)
-SCS-C03 exam prep structured as real delivery material: detection architectures, HIPAA control mappings, CloudFormation lab environments, and incident response playbooks across fictional healthcare client scenarios.
+Building systematic approaches for diagnosing:
 
-### [`ref-azure-byod-zero-trust`](../ref-azure-byod-zero-trust)
-Enforcing data boundaries without device enrollment: GitHub PAT/SSH key governance, Codespaces-only access patterns, Conditional Access policy templates for BYOD-heavy environments.
+- SIP OPTIONS / SBC health
+- Inbound and outbound calling failures
+- One-way / no-audio issues
+- DTMF problems
+- Codec negotiation
+- TLS / certificate failures
+- DNS and FQDN issues
+- NAT / firewall traversal
+- Carrier routing problems
 
-### [`lab-pihole-vpn-homelab`](../lab-pihole-vpn-homelab)
-Home lab build documentation: Pi-hole with DNS over HTTPS via dnscrypt-proxy, ProtonVPN + WireGuard with kill switch, and planned pfSense/VLAN segmentation architecture.
+### ⚙️ Automation
 
-### [`ts-hipaa-assessment-framework`](../ts-hipaa-assessment-framework)
-Sanitized methodology from Teknikally Speaking's HIPAA Self-Assessment: 54 questions across 10 control domains, mapped to the HIPAA Security Rule and NIST CSF. Built for healthcare organizations that need to know where they stand before they spend.
+Turning repetitive UC operational processes into reliable workflows using:
 
----
+- PowerShell
+- Microsoft Graph
+- APIs
+- Microsoft 365 automation
 
-## Technical Stack
+### Identity & Governance
 
-**Cloud & Infrastructure**
-`Azure` `AWS` `Entra ID / Azure AD` `Conditional Access` `Microsoft Defender` `CloudFormation` `Bicep`
+Exploring how RBAC, least privilege, access reviews, lifecycle management, and automation can make collaboration platforms more secure and scalable.
 
-**Voice & Unified Communications**
-`SIP / SIP Trunking` `SBC Architecture` `Microsoft Teams Direct Routing` `PSTN Interconnects` `VoIP Security`
+## My GitHub Lab
 
-**Security & Compliance**
-`HIPAA Security Rule` `NIST CSF` `Zero Trust` `IAM` `SIEM / Log Analytics` `Threat Detection`
+This GitHub is my personal engineering lab.
 
-**Tooling**
-`Python` `Bash` `Git` `Terraform` `pfSense` `WireGuard` `Pi-hole`
+I use it to build and document:
 
----
+- PowerShell utilities
+- Teams administration tools
+- Voice troubleshooting helpers
+- SIP learning exercises
+- Automation experiments
+- Microsoft Graph projects
+- Architecture examples
+- Technical notes and runbooks
+- Labs created while learning new technologies
 
-## Certifications & Training
+All examples are independently created for learning and demonstration purposes and contain no proprietary employer configurations or documentation.
 
-| Credential | Issuer | Status |
-|---|---|---|
-| **CCNA** — Cisco Certified Network Associate | Cisco | ✅ Active |
-|  **AWS Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Active |
-| **CompTIA Security+** | CompTIA | ✅ Active |
-| **MS-721** — Collaboration Communications Systems Engineer | Microsoft | ✅ Active |
-| **AWS Security Specialty (SCS-C03)** | Amazon Web Services | 🔄 In Progress |
+## Currently Learning
 
----
+I'm continuing to deepen my knowledge of:
 
-## Connect
+`SIP` • `RTP/SRTP` • `Ribbon SBCs` • `Teams Direct Routing` • `PowerShell` • `Microsoft Graph` • `IAM` • `Azure` • `Automation`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/jessica-anderson-84b423211/)
-[![Teknikally Speaking](https://img.shields.io/badge/Teknikally%20Speaking-Website-teal?style=flat)](https://www.teknikallyspeaking.com)
-[![Email](https://img.shields.io/badge/Email-support%40teknikallyspeaking.com-lightgrey?style=flat)](mailto:support@teknikallyspeaking.com)
+## Where I'm Heading
 
----
+My goal is to grow beyond platform administration into **UC architecture and engineering**, with the ability to design, secure, automate, troubleshoot, and improve enterprise communication services end to end.
 
-*Senior infrastructure engineer. Healthcare security practitioner. Building the firm, building the lab, building the body of work.*
+I believe the strongest engineers don't just know how to configure a system.
+
+They understand **why it works, how it fails, how to prove where it failed, and how to prevent the failure from happening again.**
